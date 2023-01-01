@@ -27,6 +27,6 @@ OG uses your Google account for authentication so your login is securely handled
 ![Flow of Control](static/flow_of_control.png)
 
 ## Challenges
-- Google does not allow us to publish this app as we do not have enough users. We have submitted a request to Google, but approval takes at least a week. Mail us your email ID @ nsj0596@gmail.com if you want to be a beta tester!
+- Google does not allow us to publish this app as we do not have enough users. We have submitted a request to Google, but approval takes at least a week. Mail us your email ID @ valluruindra@gmail.com if you want to be a beta tester!
 
 - Since our app isn't published yet, our Gmail API access is limited. You will see emails from a service account instead of your own due to security reasons. If you want to see your own inbox, create an OAuth permit in your GCP console, download your credentials.json file and run this app locally.
